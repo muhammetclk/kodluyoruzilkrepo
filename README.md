@@ -14,5 +14,6 @@ cd kodluyoruzilkrepo
 code .
 ```
 ## License
-[mit] (https://opensource.org/licenses/MIT)
+[mit](https://opensource.org/licenses/MIT)
 
+![kodluyoruz](https://www.google.com/url?sa=i&url=https%3A%2F%2Fkommunity.com%2Fkodluyoruz&psig=AOvVaw3LirTN3Moo18o7MLAMAI8N&ust=1636752416569000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDyqY6gkfQCFQAAAAAdAAAAABAU)
